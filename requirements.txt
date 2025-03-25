@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+requests
+PyPDF2
+google-generativeai
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu
+datetime
+numpy
+pandas
+plotly
+matplotlib
